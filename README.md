@@ -1,9 +1,7 @@
 pre-commit-golang
 =================
 
-:rotating_light: Please see the project sunsetting announcement:
-[Issues/98](https://github.com/dnephin/pre-commit-golang/issues/98)
-:rotating_light:
+Fork of sunset <https://github.com/dnephin/pre-commit-golang>
 
 ----
 
